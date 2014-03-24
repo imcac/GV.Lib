@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\GV.Lib\bin\Debug\GV.Lib.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\GV.Lib\bin\Debug\GV.Lib.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\GV.Lib\obj\Debug\GV.Lib.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\GV.Lib\obj\Debug\GV.Lib.pdb

@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\bin\Debug\Test.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\bin\Debug\Test.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\bin\Debug\GV.Lib.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\bin\Debug\GV.Lib.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\obj\x86\Debug\Test.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GV.Lib\Test\obj\x86\Debug\Test.pdb
